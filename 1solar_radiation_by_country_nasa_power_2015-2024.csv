@@ -1,3 +1,4 @@
+
 country,latitude,longitude,year,ghi_kwh_m2_day,source,ghi_kwh_m2_year
 Afghanistan,33.0,65.0,201001,3.02,NASA POWER,1102.3
 Afghanistan,33.0,65.0,201002,3.56,NASA POWER,1299.4
