@@ -1,5 +1,5 @@
 # **Projeto MVP - Happiness Score**
-Análise de Dados e Boas Práticas
+Análise de Dados e Boas Práticas PUC - Rio (2025)
 
 
 Nome: Rebeca Chuffi Saccochi
